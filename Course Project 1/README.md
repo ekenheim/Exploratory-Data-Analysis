@@ -3,11 +3,6 @@ Exploratory-Data-Analysis
 
 John Hopkins Course Material
 
-Exploratory-Data-Analysis
-=========================
-
-John Hopkins Course Material
-
 ## Introduction
 
 This assignment uses data from
